@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+.card {
+  width: 500px;
+  height: fit-content;
+  border: 3px solid black;
+  border-radius: 25px;
+  background-color: rgb(95, 164, 225);
+}
+.card-image {
+  width: 100px;
+  border-radius: 50%;
+}
+.card-image img {
+  width: 70%;
+  height: 70%;
+}
+
+.card-titulo {
+  font-size: 35px;
+}
+.card-titulo-nome {
+  color: rgb(212, 230, 71);
+}
+.card-mensagem span {
+  font-weight: bold;
+  color: #0eecd5;
+}
